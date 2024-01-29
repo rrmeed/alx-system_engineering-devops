@@ -1,7 +1,5 @@
 # **Background Context**
 
-!https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/6/b07e3333b1edfb9beed5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240129%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240129T144850Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=270cc88698737b8ce74efd1fa47d0f0d10f75a3d5f8983a443bf87f9bf71a060
-
 # **Resources**
 
 **Read or watch**:
@@ -71,6 +69,7 @@ Not passing `Shellcheck`:
 
 Passing `Shellcheck`:
 
-!https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/251/ubHWxDU.png
+[![Alt text](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/251/ubHWxDU.png)
 
-For every feedback, Shellcheck will provide a code that you can use to get more information about the issue, for example for code `SC2034`, you can browse [https://github.com/koalaman/shellcheck/wiki/SC2034](https://intranet.alxswe.com/rltoken/dxp49_rfO4_9Yjtcg59exg).
+For every feedback, Shellcheck will provide a code that you can use to get more information about the issue, for example for code `SC2034`, you can browse [https://github.com/koalaman/shellcheck/wiki/SC2034]
+[![Alt text](https://intranet.alxswe.com/rltoken/dxp49_rfO4_9Yjtcg59exg)
