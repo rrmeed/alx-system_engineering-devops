@@ -1,6 +1,4 @@
-i# **Background Context**
-
-!https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/6/2ea1058f813d42c61f48.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240819%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240819T104103Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0712d8ae931bb115183bf49c059c82ebf8719800a4636ca99b5274b3fcbd142d
+# **Background Context**
 
 Your web infrastructure is already serving web pages via `Nginx` that you installed in your [first web stack project](https://intranet.alxswe.com/rltoken/95oRNZ-zRGwLxtWECJqsWA). While a web server can also serve dynamic content, this task is usually given to an application server. In this project you will add this piece to your infrastructure, plug it to your `Nginx` and make is serve your Airbnb clone project.
 
